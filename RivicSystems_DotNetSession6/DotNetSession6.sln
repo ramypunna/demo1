@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSession6", "DotNetSession6\DotNetSession6.csproj", "{2B1BA06A-BE73-4E56-94FD-0AD2DFD75C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLibrary", "StudentLibrary\StudentLibrary.csproj", "{FE1DC335-30BE-4FAF-A921-797353279587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1BA06A-BE73-4E56-94FD-0AD2DFD75C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1BA06A-BE73-4E56-94FD-0AD2DFD75C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1BA06A-BE73-4E56-94FD-0AD2DFD75C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1BA06A-BE73-4E56-94FD-0AD2DFD75C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1DC335-30BE-4FAF-A921-797353279587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1DC335-30BE-4FAF-A921-797353279587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1DC335-30BE-4FAF-A921-797353279587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1DC335-30BE-4FAF-A921-797353279587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

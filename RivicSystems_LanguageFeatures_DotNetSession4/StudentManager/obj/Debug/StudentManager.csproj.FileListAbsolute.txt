@@ -1,0 +1,7 @@
+C:\Users\Admin\Google Drive\RivicSystems\TrainingDocuments\RivicSystemTrainingDemoSamples\LanguageFeatures_DotNetSession4\StudentManager\bin\Debug\StudentManager.dll
+C:\Users\Admin\Google Drive\RivicSystems\TrainingDocuments\RivicSystemTrainingDemoSamples\LanguageFeatures_DotNetSession4\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\Admin\Google Drive\RivicSystems\TrainingDocuments\RivicSystemTrainingDemoSamples\LanguageFeatures_DotNetSession4\StudentManager\bin\Debug\StudentLibrary.dll
+C:\Users\Admin\Google Drive\RivicSystems\TrainingDocuments\RivicSystemTrainingDemoSamples\LanguageFeatures_DotNetSession4\StudentManager\bin\Debug\StudentLibrary.pdb
+C:\Users\Admin\Google Drive\RivicSystems\TrainingDocuments\RivicSystemTrainingDemoSamples\LanguageFeatures_DotNetSession4\StudentManager\obj\Debug\StudentManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Drive\RivicSystems\TrainingDocuments\RivicSystemTrainingDemoSamples\LanguageFeatures_DotNetSession4\StudentManager\obj\Debug\StudentManager.dll
+C:\Users\Admin\Google Drive\RivicSystems\TrainingDocuments\RivicSystemTrainingDemoSamples\LanguageFeatures_DotNetSession4\StudentManager\obj\Debug\StudentManager.pdb

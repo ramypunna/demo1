@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RivicTrainingDemoModelStoreContainer" CdmEntityContainer="RivicTrainingDemoEntities">
+    <EntitySetMapping Name="BestProfessors">
+      <EntityTypeMapping TypeName="RivicTrainingDemoModel.BestProfessors">
+        <MappingFragment StoreEntitySet="BestProfessors">
+          <ScalarProperty Name="Professor_Name" ColumnName="Professor_Name" />
+          <ScalarProperty Name="Professor_Country" ColumnName="Professor_Country" />
+          <ScalarProperty Name="Awarded_Year" ColumnName="Awarded_Year" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Student">
+      <EntityTypeMapping TypeName="RivicTrainingDemoModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="StudentAddress" ColumnName="StudentAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="spGetStudents" FunctionName="RivicTrainingDemoModel.Store.spGetStudents">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="RivicTrainingDemoModel.spGetStudents_Result">
+          <ScalarProperty Name="StudentId" ColumnName="StudentId" />
+          <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+          <ScalarProperty Name="StudentAddress" ColumnName="StudentAddress" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
